@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"ColorPicker",
+		"Djaneiro",
+		"Git",
+		"Markdown Extended",
+		"Mustache",
+		"Package Control",
+		"Sass",
+		"SingleTrailingNewLine",
+		"Siteleaf Liquid Syntax",
+		"Terminus",
+		"VCS Gutter",
+		"VimL",
+		"WordCount"
+	]
+}
