@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AutoPEP8",
 		"Base16 Color Schemes",
 		"ColorPicker",
 		"Djaneiro",
