@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/zenburn/zenburn.tmTheme",
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-tomorrow-night.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
