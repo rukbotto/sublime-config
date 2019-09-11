@@ -5,11 +5,14 @@
 	],
 	"installed_packages":
 	[
-		"AutoPEP8",
+		"A File Icon",
+		"Babel",
 		"Base16 Color Schemes",
+		"Base16 Eighties Dark Color Scheme",
 		"ColorPicker",
 		"Djaneiro",
 		"Dockerfile Syntax Highlighting",
+		"DotENV",
 		"Markdown Extended",
 		"Mustache",
 		"Package Control",
@@ -18,6 +21,7 @@
 		"Siteleaf Liquid Syntax",
 		"Terminal",
 		"TOML",
+		"TypeScript",
 		"VimL",
 		"WordCount"
 	]
