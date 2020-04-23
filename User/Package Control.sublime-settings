@@ -5,13 +5,12 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
+		"AutoPEP8",
 		"Babel",
-		"Base16 Color Schemes",
-		"Base16 Eighties Dark Color Scheme",
 		"ColorPicker",
 		"Djaneiro",
 		"Dockerfile Syntax Highlighting",
+		"Github Color Theme",
 		"DotENV",
 		"Markdown Extended",
 		"Mustache",
