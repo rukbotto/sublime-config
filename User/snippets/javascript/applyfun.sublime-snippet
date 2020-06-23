@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:Class}.apply(this, Array.prototype.slice.call(arguments));
+]]></content>
+  <tabTrigger>applyfun</tabTrigger>
+  <scope>source.js</scope>
+  <description>Apply function</description>
+</snippet>

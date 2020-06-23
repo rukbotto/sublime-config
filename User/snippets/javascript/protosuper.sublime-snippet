@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:Class}.prototype = new ${2:SuperClass}();
+]]></content>
+  <tabTrigger>protosuper</tabTrigger>
+  <scope>source.js</scope>
+  <description>Prototype super class</description>
+</snippet>

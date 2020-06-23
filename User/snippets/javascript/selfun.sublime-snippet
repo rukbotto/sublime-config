@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+(function ($1) {
+  ${2://statements}
+})($1);
+]]></content>
+  <tabTrigger>selfun</tabTrigger>
+  <scope>source.js</scope>
+  <description>Self executing function</description>
+</snippet>

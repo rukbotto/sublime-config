@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:Class}.prototype.${2:method}.call(this${3:, args});
+]]></content>
+  <tabTrigger>call</tabTrigger>
+  <scope>source.js</scope>
+  <description>Call method</description>
+</snippet>

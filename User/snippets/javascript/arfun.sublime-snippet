@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+($1) => {
+  ${2://statements}
+}
+]]></content>
+  <tabTrigger>arfun</tabTrigger>
+  <scope>source.js</scope>
+  <description>Arrow function</description>
+</snippet>
