@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[#!${1:/bin/sh}]]></content>
+  <tabTrigger>#!</tabTrigger>
+  <scope>source.shell.bash</scope>
+  <description>Shebang</description>
+</snippet>

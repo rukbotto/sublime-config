@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:*})
+    ${2:#body}
+    ;;
+]]></content>
+  <tabTrigger>casepat</tabTrigger>
+  <scope>source.shell.bash</scope>
+  <description>Case pattern</description>
+</snippet>

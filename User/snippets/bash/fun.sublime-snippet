@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:function}() {
+  ${2:#statements}
+}
+]]></content>
+  <tabTrigger>fun</tabTrigger>
+  <scope>source.shell.bash</scope>
+  <description>Function</description>
+</snippet>
