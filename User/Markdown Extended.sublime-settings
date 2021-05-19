@@ -1,7 +1,7 @@
 {
-	"extensions":
-	[
-		"md",
+  "extensions":
+  [
+    "md",
   ],
   "rulers": [],
   "word_wrap": true,

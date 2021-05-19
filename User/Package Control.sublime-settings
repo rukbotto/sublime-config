@@ -5,23 +5,17 @@
 	],
 	"installed_packages":
 	[
-		"AutoPEP8",
 		"Babel",
 		"ColorPicker",
 		"Djaneiro",
 		"Dockerfile Syntax Highlighting",
-		"Github Color Theme",
 		"DotENV",
 		"Markdown Extended",
 		"Mustache",
 		"Package Control",
 		"Sass",
-		"SideBarTools",
 		"Siteleaf Liquid Syntax",
-		"Terminal",
 		"TOML",
-		"TypeScript",
-		"VimL",
-		"WordCount"
+		"TypeScript"
 	]
 }

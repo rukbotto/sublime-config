@@ -1,5 +1,4 @@
+// These settings override both User and Default settings for the JavaScript syntax
 {
-	"extensions":
-	[
-	]
+  "tab_size": 2
 }
