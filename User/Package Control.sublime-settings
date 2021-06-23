@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"Babel",
-		"ColorPicker",
 		"Djaneiro",
 		"Dockerfile Syntax Highlighting",
 		"DotENV",
@@ -15,6 +14,6 @@
 		"Package Control",
 		"Sass",
 		"Siteleaf Liquid Syntax",
-		"TOML"
-	]
+		"TOML",
+	],
 }

@@ -1,5 +1,7 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Sixteen.sublime-color-scheme",
+	"caret_extra_top": 1,
+	"caret_extra_bottom": 1,
+	"color_scheme": "auto",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
@@ -8,17 +10,25 @@
 	],
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"rulers":
 	[
 		80,
 		120
 	],
-	"theme": "Adaptive.sublime-theme",
+	"theme": "auto",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"font_size": 12,
+	"dark_theme": "Default Dark.sublime-theme",
+	"light_theme": "Default.sublime-theme",
+	"dark_color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"light_color_scheme": "Packages/Color Scheme - Default/Breakers.sublime-color-scheme",
+	"show_full_path": true,
+	"remember_full_screen": true,
+	"highlight_line": true,
 }
